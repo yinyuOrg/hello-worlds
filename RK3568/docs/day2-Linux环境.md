@@ -4,7 +4,7 @@
 
 我们常见的操作系统有`windows`、`linux`、`iOS`还有`Android`。`linux`的发行版除了`ubuntu`，还有`radhat`、`centos`、`debian`、`openwrt`。通常一个嵌入式设备上运行的软件包括`bootloader`，`linux`和`rootfs`。
 
-![Linux 目录](../files/day1-1.png)
+![Linux 目录](../files/day2-1.png)
 
 重点目录：
 - bin：存放系统最基本的可执行命令（如 ls、cp）；
@@ -17,6 +17,6 @@
 
 一个通用`Linux SDK`工程目录包含有`ubuntu`、`debian`、`app`、`kernel`、`device`、`docs`、`external`等目录。其中一些特性芯片如`RK3308/RV1108/RV1109/RV1126`等，会有所不同。
 
-![SDK 工程目录](../files/day1-2.png)
+![SDK 工程目录](../files/day2-2.png)
 
 下载 RK_SDK 后，
